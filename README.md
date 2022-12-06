@@ -20,11 +20,13 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-</div><br><br><br><br><br><br><br><br><br>
+</div><br><br><br><br><br><br><br><br>
 <div align="center">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hydr0bius&show_icons=true&locale=en" alt="hydr0bius" />
 <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydr0bius&show_icons=true&locale=en&layout=compact" alt="hydr0bius" />
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydr0bius&" alt="hydr0bius" /></p>
+  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hydr0bius&bg_color=091843&color=7acd13&line=0f9939&point=a7d110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E4053&height=120&section=footer"/>
