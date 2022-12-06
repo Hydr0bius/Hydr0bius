@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **polancoblancoricardo@gmail.com**
 
-<h3>https://www.linkedin.com/in/ricardo-polanco-blanco96/<h3>
+<h3><h3>
 <img align="right" alt="codign gif from "https://tenor.com/search/coding-gifs"" width"400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
