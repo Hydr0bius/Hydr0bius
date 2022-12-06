@@ -13,7 +13,7 @@
 - 📫 How to reach me **polancoblancoricardo@gmail.com**
 <div align="center">
 <h3><h3>
-<img align="right" alt="codign gif from "https://tenor.com/search/coding-gifs"" width"300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" alt="codign gif from "https://tenor.com/search/coding-gifs"" width"40%" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardo-polanco-blanco96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ricardo-polanco-blanco96" height="30" width="40" /></a>
