@@ -25,7 +25,6 @@
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hydr0bius&show_icons=true&locale=en" alt="hydr0bius" />
 <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydr0bius&show_icons=true&locale=en&layout=compact" alt="hydr0bius" />
 </div>
-<h3>asasas<h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydr0bius&" alt="hydr0bius" /></p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E4053&height=120&section=footer"/>
