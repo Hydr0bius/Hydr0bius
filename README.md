@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ricardo Polanco</h1>
-<h3 align="center">A passionate developer from México</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2E4053&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ricardo+Polanco;I'm+26+years+old;I+Graduated+Ing.+Mechatronic;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 - 🌱 I’m currently learning **HTML, CSS3, JS**
 
-- 👨‍💻 All of my projects are available at [proximamente.com](proximamente.com)
+- 👨‍💻 All of my projects are available at [coming soon](proximamente.com)
 
 - 📫 How to reach me **polancoblancoricardo@gmail.com**
 
