@@ -7,6 +7,13 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
 
+```javascript
+const Ricardo = {
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS],
+ challenge: "I am doing the scholarship SANTANDER Desarrollo web JAVA"
+}
+```
 
 - 👨‍💻 All of my projects are available at [coming soon](proximamente.com)
 
