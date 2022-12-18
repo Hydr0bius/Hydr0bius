@@ -15,7 +15,7 @@ const Ricardo = {
 }
 ```
 
-- 👨‍💻 All of my projects are available at [coming soon](proximamente.com)
+- 👨‍💻 All of my projects are available at [coming soon](https://github.com/Hydr0bius/coming-soon)
 
 - 📫 How to reach me **polancoblancoricardo@gmail.com**
 <div align="center">
