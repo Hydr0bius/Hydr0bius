@@ -32,8 +32,11 @@ You can learn HTML in the next <a href="https://github.com/Hydr0bius/HTML/blob/m
  </p>
 
 </div><br><br><br><br><br><br>
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hydr0bius&show_icons=true&theme=transparent)
+
+<div align="center">
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=hydr0bius&show_icons=true&theme=merko" alt="hydr0bius" />
+<img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=hydr0bius&show_icons=true&locale=en&layout=compact" alt="hydr0bius" />
+</div>
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydr0bius&" alt="hydr0bius" /></p>
   
