@@ -11,7 +11,7 @@
 ```javascript
 const Ricardo = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS],
+  code: ['Javascript', 'HTML', 'CSS'],
  challenge: "I am doing the scholarship SANTANDER Desarrollo web JAVA"
 }
 ```
