@@ -40,6 +40,6 @@ You can learn HTML in the next <a href="https://github.com/Hydr0bius/HTML/blob/m
   
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hydr0bius&theme=merko" alt="hydr0bius" /></p>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hydr0bius&bg_color=091843&color=7acd13&line=0f9939&point=a7d110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hydr0bius&bg_color=091843&color=7acd13&line=0f9939&point=a7d110&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E4053&height=120&section=footer"/>
