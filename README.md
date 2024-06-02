@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2E4053&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AC0D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ricardo+Polanco;I'm+27+years+old;I+Graduated+engineer+Mechatronic;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D4AC0D&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ricardo+Polanco;I'm+28+years+old;I+Graduated+engineer+Mechatronic;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ### Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
